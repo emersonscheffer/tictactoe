@@ -1,0 +1,13 @@
+
+export const CHANGE_COLOR = "CHANGE_COLOR"
+export const GAME_OVER = "GAME_OVER"
+export const PLAYER_PLAYER = "PLAYER_PLAYER"
+export const PLAYER_COMPUTER = "PLAYER_COMPUTER"
+export const IS_WINNER = "IS_WINNER"
+export const THE_WINNER = "THE_WINNER" 
+
+export const START_GAME = "START_GAME"
+export const TOGGLE_PLAYER_TURN = "TOGGLE_PLAYER_TURN"
+export const ADD_TILE_SYMBOL = "ADD_TILE_SYMBOL"
+export const ENDING_GAME = "ENDING_GAME"
+export const BACK_PRESSED = "BACK_PRESSED"
